@@ -2,15 +2,15 @@
 
 You recently created a new company in the `GAMING industry`. The company will have the following scheme:
 
-- 20 Designers
-- 5 UI/UX Engineers
-- 10 Frontend Developers
-- 15 Data Engineers
-- 5 Backend Developers
-- 20 Account Managers
-- 1 Maintenance guy that loves basketball
-- 10 Executives
-- 1 CEO/President
+- 20 Designers 22.99%
+- 5 UI/UX Engineers 5.75%
+- 15 Data Engineers 17.24%
+- 10 Frontend Developers 11.49%
+- 5 Backend Developers 5.75%
+- 20 Account Managers 22.99%
+- 1 Maintenance guy that loves basketball 1.5 %
+- 10 Executives 11.49%
+- 1 CEO/President 1.5%
 
 As a data engineer you have asked all the employees to show their preferences on where to place the new office.
 Your goal is to place the **new company offices** in the best place for the company to grow.
